@@ -149,7 +149,7 @@ namespace HWCS1
             else if(x>=2)
                 Console.WriteLine($"F(x)= {4}");
             else
-                Console.WriteLine("Ваши условия не подошли");
+                Console.WriteLine("Ваши условия не подошли ");
         }
         
 
